@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Full Stack Developer | DSA Learner</h3>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="200" />
+  <img src="https://api.dicebear.com/7.x/avataaars/svg?seed=Piyush10564&hair=shortHairShortFlat&eyes=default&mouth=smile&glasses=round&skinColor=light" width="200" />
 </p>
 
 ---
